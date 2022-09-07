@@ -61,7 +61,3 @@ const sebastian = {
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sebastian-raubach&hide=prs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-raubach&show_icons=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebastian-raubach&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-Req.-ID: 04092022/9960931
