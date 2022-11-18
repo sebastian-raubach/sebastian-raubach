@@ -57,7 +57,7 @@ const sebastian = {
 ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=27ae60)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=27ae60)
 
-<a rel="me" href="https://fosstodon.org/@BazRaubach"><img src="https://img.shields.io/mastodon/follow/109295965150734776?domain=https%3A%2F%2Ffosstodon.org&style=social"></a>
+<a rel="me nofollow" href="https://fosstodon.org/@BazRaubach"><img src="https://img.shields.io/mastodon/follow/109295965150734776?domain=https%3A%2F%2Ffosstodon.org&style=social"></a>
 ![](https://img.shields.io/twitter/follow/BazRaubach?style=social)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sebastian-raubach&hide=prs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
