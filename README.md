@@ -24,9 +24,10 @@ const sebastian = {
   currentFocus: "Development of Germinate and mobile data collection apps",
   hobbies: ["Hiking", "Photography", "Reading", "Coding"],
   resources: {
-    website: "http://raubach.co.uk/",
     stackoverflow: "https://stackoverflow.com/users/1449199/baz",
     twitter: "https://twitter.com/BazRaubach",
+    mastodon: "https://fosstodon.org/@BazRaubach",
+    bluesky: "https://bsky.app/profile/bazraubach.bsky.social",
     linkedin: "https://www.linkedin.com/in/sebastian-raubach/",
     orcid: "https://orcid.org/0000-0001-5659-247X"
   }
